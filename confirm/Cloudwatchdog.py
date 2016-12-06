@@ -26,8 +26,8 @@ Newtork Out     - Done
 
 class Cloudwatchdog(object):
     def __init__(self):
-        self.aws_access_key_id='AKIAIWFAWR2QNXKI3S7Q'
-        self.aws_secret_access_key='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'
+        self.aws_access_key_id=''
+        self.aws_secret_access_key=''
         self.region='us-east-1'
         self.ownerid=self.getownerid()
 
